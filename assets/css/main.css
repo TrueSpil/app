@@ -1,0 +1,11 @@
+.row.full {
+    height: 100vh;
+}
+
+.logo {
+    height: 260px;
+    width: 100%;
+    display: block;
+    background: url('../image/10.jpg') no-repeat center;
+    background-size: contain;
+}
